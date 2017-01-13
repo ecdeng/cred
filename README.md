@@ -5,7 +5,7 @@ Fake news today
 
 Web scraper built off ecdeng branch of "Newspaper" from codelucas. 
 
-![ArticleAbstraction](https://github.com/ecdeng/truthy_news/ArticleAbstraction.png?raw=true)
+![ArticleAbstraction](https://github.com/ecdeng/truthy_news/ArticleAbstraction.png)
 
 
 As a part of the IDEO CoLab Winter 2017 Fellowship--Sprint 3 "Cred". 
