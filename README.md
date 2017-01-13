@@ -7,7 +7,7 @@ Web scraper built off ecdeng branch of "Newspaper" from codelucas.
 
 ![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/ArticleAbstraction.png)
 
-![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/SystemArchitecture.png)
+![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/SystemsArchitecture.png)
 
 ![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/content.png)
 
