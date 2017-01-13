@@ -9,3 +9,6 @@ Web scraper built off ecdeng branch of "Newspaper" from codelucas.
 
 
 As a part of the IDEO CoLab Winter 2017 Fellowship--Sprint 3 "Cred". 
+
+
+![Sample facial landmark detection image](https://github.com/TadasBaltrusaitis/OpenFace/blob/master/imgs/multi_face_img.png)
