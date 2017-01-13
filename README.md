@@ -7,8 +7,9 @@ Web scraper built off ecdeng branch of "Newspaper" from codelucas.
 
 ![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/ArticleAbstraction.png)
 
+![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/SystemArchitecture.png)
+
+![ArticleAbstraction](https://github.com/ecdeng/truthy_news/blob/master/img/content.png)
+
 
 As a part of the IDEO CoLab Winter 2017 Fellowship--Sprint 3 "Cred". 
-
-
-![Sample facial landmark detection image](https://github.com/TadasBaltrusaitis/OpenFace/blob/master/imgs/multi_face_img.png)
